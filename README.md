@@ -1,4 +1,4 @@
-tkinterを使って、遺伝的アルゴリズム（Genetic ALgorithm, GA）で単制約0-1ナップザック問題（Knapsack Problem, KP）を解いた時の世代ごとの最適値の変化を可視化するGUIを作ってみました。
+pythonのtkinterを使って、遺伝的アルゴリズム（Genetic ALgorithm, GA）で単制約0-1ナップザック問題（Knapsack Problem, KP）を解いた時の世代ごとの最適値の変化を可視化するGUIを作ってみました。
 遺伝的アルゴリズムやナップザック問題については他サイトを参考にしてください。
 
 # 使用方法
